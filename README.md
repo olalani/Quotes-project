@@ -1,1 +1,1 @@
-# Quotes-project
+# Quotes-project. During the global lockdown, I picked JavaScript language to boost my stack as a frontend developer so I created this random quote display as a first project. it is written in html,css and JavaScript. It is always helpful for a beginner in JavaScript to work on.
